@@ -2,10 +2,30 @@ Timestamp,Department,Description,Amount,TransactionID
 2025-09-04 11:45 PM,HR,Salary Reimbursements,"₹5,00,000",TXN1001
 2025-09-05 12:05 AM,R&D,Vendor Payment,"₹12,00,000",TXN1002
 2025-09-05 12:08 AM,Marketing,Campaign Spend,"₹10,00,000",TXN1003
-2025-09-05 12:10 AM,Treasury,Suspicious Vendor Pvt Ltd,"₹49,99,999.99",TXN1004
+2025-09-05 12:10 AM,Treasury,Vendor Services Pvt Ltd,"₹49,99,999.99",TXN1004
 2025-09-05 12:12 AM,Operations,Office Supplies,"₹8,50,000",TXN1005
 2025-09-05 12:15 AM,Treasury,CONFIDENTIAL,"₹50,00,00,000",TXN1337
 2025-09-05 12:16 AM,Finance,Consulting Fees,"₹20,00,000",TXN1006
-2025-09-05 12:20 AM,Treasury,Suspicious Vendor Pvt Ltd,"₹10,00,00,000",TXN1007
+2025-09-05 12:20 AM,Treasury,Vendor Services Pvt Ltd,"₹10,00,00,000",TXN1007
 2025-09-05 12:30 AM,R&D,Cloud Services,"₹15,00,000",TXN1008
 2025-09-05 01:00 AM,Marketing,Ad Placement,"₹25,00,000",TXN1009
+2025-09-05 01:12 AM,HR,Employee Bonus,"₹3,50,000",TXN1010
+2025-09-05 01:18 AM,Finance,Travel Expenses,"₹7,25,000",TXN1011
+2025-09-05 01:25 AM,IT,Software License,"₹12,75,000",TXN1012
+2025-09-05 01:30 AM,Operations,Equipment Purchase,"₹18,00,000",TXN1013
+2025-09-05 01:45 AM,Treasury,Vendor Services Pvt Ltd,"₹5,00,00,000",TXN1014
+2025-09-05 02:00 AM,R&D,Research Materials,"₹9,50,000",TXN1015
+2025-09-05 02:12 AM,Finance,Contractor Payout,"₹11,00,000",TXN1016
+2025-09-05 02:20 AM,Marketing,Advertising Spend,"₹20,00,000",TXN1017
+2025-09-05 02:30 AM,Operations,Utility Bills,"₹2,50,000",TXN1018
+2025-09-05 02:45 AM,HR,Medical Claims,"₹4,25,000",TXN1019
+2025-09-05 03:00 AM,IT,Data Center Fees,"₹13,75,000",TXN1020
+2025-09-05 03:12 AM,R&D,Training Program,"₹6,00,000",TXN1021
+2025-09-05 03:20 AM,Finance,Insurance Premium,"₹15,00,000",TXN1022
+2025-09-05 03:35 AM,Operations,Facility Upgrade,"₹22,50,000",TXN1023
+2025-09-05 03:50 AM,Marketing,Campaign Spend,"₹5,75,000",TXN1024
+2025-09-05 04:05 AM,Treasury,Vendor Services Pvt Ltd,"₹9,00,00,000",TXN1025
+2025-09-05 04:12 AM,HR,Salary Reimbursements,"₹8,00,000",TXN1026
+2025-09-05 04:20 AM,Finance,Consulting Fees,"₹10,00,000",TXN1027
+2025-09-05 04:32 AM,R&D,Research Materials,"₹4,00,000",TXN1028
+2025-09-05 04:45 AM,Operations,Office Supplies,"₹3,00,000",TXN1029
