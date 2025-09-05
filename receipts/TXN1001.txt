@@ -1,0 +1,12 @@
+----------------------------------------
+        TechSphere Financials Pvt Ltd
+----------------------------------------
+Receipt No: R-2025-TXN1001
+Transaction ID: TXN1001
+Date: 2025-09-04 11:45 PM
+Department: HR
+Description: Salary Reimbursements
+Amount: ₹5,00,000
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

@@ -1,0 +1,12 @@
+----------------------------------------
+        TechSphere Financials Pvt Ltd
+----------------------------------------
+Receipt No: R-2025-TXN1016
+Transaction ID: TXN1016
+Date: 2025-09-05 08:00 AM
+Department: General
+Description: Routine Transaction
+Amount: ₹1,60,000
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

@@ -1,0 +1,12 @@
+----------------------------------------
+        TechSphere Financials Pvt Ltd
+----------------------------------------
+Receipt No: R-2025-TXN1002
+Transaction ID: TXN1002
+Date: 2025-09-05 12:05 AM
+Department: R&D
+Description: Vendor Payment
+Amount: ₹12,00,000
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

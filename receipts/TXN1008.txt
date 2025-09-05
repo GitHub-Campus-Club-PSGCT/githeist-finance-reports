@@ -1,0 +1,12 @@
+----------------------------------------
+        TechSphere Financials Pvt Ltd
+----------------------------------------
+Receipt No: R-2025-TXN1008
+Transaction ID: TXN1008
+Date: 2025-09-05 12:30 AM
+Department: R&D
+Description: Cloud Services
+Amount: ₹15,00,000
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

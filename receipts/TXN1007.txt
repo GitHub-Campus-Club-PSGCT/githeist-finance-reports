@@ -1,0 +1,12 @@
+----------------------------------------
+        TechSphere Financials Pvt Ltd
+----------------------------------------
+Receipt No: R-2025-TXN1007
+Transaction ID: TXN1007
+Date: 2025-09-05 12:20 AM
+Department: Treasury
+Description: Vendor Pvt Ltd
+Amount: ₹10,00,00,000
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________
