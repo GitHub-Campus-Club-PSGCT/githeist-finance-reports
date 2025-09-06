@@ -1,0 +1,75 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2501
+Transaction ID: TXN2501
+Date: 2025-08-25 09:45 AM
+Department: HR
+Description: Salary Disbursement
+Amount: ₹4,50,000
+From Account: HR Payroll Fund
+To Account: Employee Accounts
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________
+
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2502
+Transaction ID: TXN2502
+Date: 2025-08-25 11:15 AM
+Department: Operations
+Description: Office Supplies Vendor
+Amount: ₹2,20,000
+From Account: Operations Expense
+To Account: Greenline Supplies Pvt Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________
+
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2503
+Transaction ID: TXN2503
+Date: 2025-08-25 02:00 PM
+Department: R&D
+Description: Cloud Computing Charges
+Amount: ₹8,00,000
+From Account: R&D Budget
+To Account: CloudCore Technologies
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________
+
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2504
+Transaction ID: TXN2504
+Date: 2025-08-25 04:30 PM
+Department: Marketing
+Description: Campaign Advertising
+Amount: ₹5,75,000
+From Account: Marketing Expense
+To Account: MediaHub Pvt Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________
+
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2505
+Transaction ID: TXN2505
+Date: 2025-08-25 06:50 PM
+Department: Finance
+Description: Consulting Retainer
+Amount: ₹6,50,000
+From Account: Finance Department Fund
+To Account: FinServe Advisors
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________
+
