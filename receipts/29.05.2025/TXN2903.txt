@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2903
+Transaction ID: TXN2903
+Date: 2025-08-29 12:15 PM
+Department: Finance
+Description: Consulting Fees
+Amount: ₹8,20,000
+From Account: Finance Department Fund
+To Account: ClearPath Consultants
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

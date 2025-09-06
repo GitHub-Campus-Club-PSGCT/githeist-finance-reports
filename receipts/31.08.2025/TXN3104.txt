@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3104
+Transaction ID: TXN3104
+Date: 2025-08-31 02:00 PM
+Department: Operations
+Description: Security Services Renewal
+Amount: ₹9,50,000
+From Account: Operations Expense
+To Account: GuardPro Pvt Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

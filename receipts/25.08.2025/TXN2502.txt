@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2502
+Transaction ID: TXN2502
+Date: 2025-08-25 11:15 AM
+Department: Operations
+Description: Office Supplies Vendor
+Amount: ₹2,20,000
+From Account: Operations Expense
+To Account: Greenline Supplies Pvt Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

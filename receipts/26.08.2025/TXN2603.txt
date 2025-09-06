@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2603
+Transaction ID: TXN2603
+Date: 2025-08-26 01:05 PM
+Department: R&D
+Description: Lab Equipment Purchase
+Amount: ₹7,20,000
+From Account: R&D Budget
+To Account: Innovatek Labs
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

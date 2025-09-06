@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2702
+Transaction ID: TXN2702
+Date: 2025-08-27 10:30 AM
+Department: Finance
+Description: Auditor Fees
+Amount: ₹4,75,000
+From Account: Finance Department Fund
+To Account: TrustAudit Partners
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

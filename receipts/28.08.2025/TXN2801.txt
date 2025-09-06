@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2801
+Transaction ID: TXN2801
+Date: 2025-08-28 09:15 AM
+Department: HR
+Description: Training Workshop Payments
+Amount: ₹2,40,000
+From Account: HR Payroll Fund
+To Account: SkillUp Training Services
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

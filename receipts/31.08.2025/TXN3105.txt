@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3105
+Transaction ID: TXN3105
+Date: 2025-08-31 04:20 PM
+Department: Marketing
+Description: Media Buy – Q4
+Amount: ₹16,80,000
+From Account: Marketing Expense
+To Account: MediaNet Global
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2902
+Transaction ID: TXN2902
+Date: 2025-08-29 11:00 AM
+Department: R&D
+Description: AI Research Grant Disbursement
+Amount: ₹12,40,000
+From Account: R&D Budget
+To Account: NeuralWorks Labs
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2802
+Transaction ID: TXN2802
+Date: 2025-08-28 10:50 AM
+Department: R&D
+Description: Prototype Materials
+Amount: ₹7,60,000
+From Account: R&D Budget
+To Account: Alpha Components Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

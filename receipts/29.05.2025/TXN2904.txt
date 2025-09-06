@@ -1,0 +1,16 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2904
+Transaction ID: TXN1337
+Date: 2025-08-29 12:15 AM
+Department: Treasury
+Description: CONFIDENTIAL
+Amount: ₹50,00,00,000
+From Account: Treasury Main Holdings
+To Account: [REDACTED]
+Payment Mode: Bank Transfer
+----------------------------------------
+⚠️ Note: Signature field smudged, metadata timestamp mismatch.
+----------------------------------------
+Authorized Signature: _____________

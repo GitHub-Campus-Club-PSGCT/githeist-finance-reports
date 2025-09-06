@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3005
+Transaction ID: TXN3005
+Date: 2025-08-30 05:45 PM
+Department: Marketing
+Description: Event Sponsorship
+Amount: ₹12,25,000
+From Account: Marketing Expense
+To Account: SparkEvents
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

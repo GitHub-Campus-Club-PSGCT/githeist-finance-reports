@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2606
+Transaction ID: TXN2606
+Date: 2025-08-26 07:10 PM
+Department: Marketing
+Description: Influencer Partnership
+Amount: ₹5,40,000
+From Account: Marketing Expense
+To Account: SocialReach Media
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

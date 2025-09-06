@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2803
+Transaction ID: TXN2803
+Date: 2025-08-28 12:30 PM
+Department: IT
+Description: Firewall Upgrade
+Amount: ₹4,25,000
+From Account: IT Budget
+To Account: CyberShield Technologies
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

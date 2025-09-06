@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2703
+Transaction ID: TXN2703
+Date: 2025-08-27 01:00 PM
+Department: IT
+Description: Server Maintenance
+Amount: ₹6,90,000
+From Account: IT Budget
+To Account: NetCore Systems
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

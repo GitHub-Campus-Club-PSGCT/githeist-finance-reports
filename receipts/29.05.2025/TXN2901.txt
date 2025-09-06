@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2901
+Transaction ID: TXN2901
+Date: 2025-08-29 09:10 AM
+Department: HR
+Description: Employee Wellness Program
+Amount: ₹3,95,000
+From Account: HR Payroll Fund
+To Account: LifeCare Services
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

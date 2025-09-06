@@ -1,44 +1,44 @@
-Timestamp,TransactionID,FromAccount,ToAccount
-2025-08-25 09:15 AM,TXN2501,HR Payroll Fund,Employee Accounts
-2025-08-25 11:20 AM,TXN2502,R&D Budget,LabSupplies Ltd
-2025-08-25 01:30 PM,TXN2503,Finance Department Fund,SecureAudit Associates
-2025-08-25 03:45 PM,TXN2504,Operations Expense,City Utilities Board
-2025-08-25 05:10 PM,TXN2505,Marketing Expense,AdStream Global
+Date,Timestamp,Department,Description,Amount,TransactionID,FromAccount,ToAccount
+2025-08-25 09:15AM,HR,Employee Salaries,₹25,00,000,TXN2501,HR Payroll Fund,Employee Accounts
+2025-08-25 11:20AM,R&D,Laboratory Equipment Purchase,₹15,50,000,TXN2502,R&D Budget,LabSupplies Ltd
+2025-08-25 01:30PM,Finance,Quarterly Audit Payment,₹8,75,000,TXN2503,Finance Department Fund,SecureAudit Associates
+2025-08-25 03:45PM,Operations,Utility Bill Payment,₹5,90,000,TXN2504,Operations Expense,City Utilities Board
+2025-08-25 05:10PM,Marketing,Digital Ads Campaign,₹12,30,000,TXN2505,Marketing Expense,AdStream Global
 
-2025-08-26 09:05 AM,TXN2601,HR Payroll Fund,SkillUp Solutions
-2025-08-26 11:10 AM,TXN2602,R&D Budget,CodeSoft Pvt Ltd
-2025-08-26 01:15 PM,TXN2603,Finance Department Fund,AlphaTax Advisors
-2025-08-26 03:30 PM,TXN2604,Operations Expense,FixIt Now
-2025-08-26 05:20 PM,TXN2605,Marketing Expense,SparkEvents
+2025-08-26 09:05AM,HR,Training Vendor Payment,₹4,75,000,TXN2601,HR Payroll Fund,SkillUp Solutions
+2025-08-26 11:10AM,R&D,Software Licenses,₹9,25,000,TXN2602,R&D Budget,CodeSoft Pvt Ltd
+2025-08-26 01:15PM,Finance,Tax Filing Service,₹6,40,000,TXN2603,Finance Department Fund,AlphaTax Advisors
+2025-08-26 03:30PM,Operations,Repair Services,₹3,85,000,TXN2604,Operations Expense,FixIt Now
+2025-08-26 05:20PM,Marketing,Event Promotions,₹7,95,000,TXN2605,Marketing Expense,SparkEvents
 
-2025-08-27 09:20 AM,TXN2701,HR Payroll Fund,HealthSecure Ltd
-2025-08-27 11:40 AM,TXN2702,R&D Budget,Innovatek Components
-2025-08-27 01:05 PM,TXN2703,Finance Department Fund,LegalEase Pvt Ltd
-2025-08-27 03:50 PM,TXN2704,Operations Expense,ShineBright Services
-2025-08-27 06:00 PM,TXN2705,Marketing Expense,BrandWave Media
+2025-08-27 09:20AM,HR,Medical Insurance Premiums,₹11,50,000,TXN2701,HR Payroll Fund,HealthSecure Ltd
+2025-08-27 11:40AM,R&D,Prototype Components,₹13,80,000,TXN2702,R&D Budget,Innovatek Components
+2025-08-27 01:05PM,Finance,Legal Consultation Fees,₹5,60,000,TXN2703,Finance Department Fund,LegalEase Pvt Ltd
+2025-08-27 03:50PM,Operations,Cleaning Services,₹4,20,000,TXN2704,Operations Expense,ShineBright Services
+2025-08-27 06:00PM,Marketing,Sponsorship Fees,₹9,10,000,TXN2705,Marketing Expense,BrandWave Media
 
-2025-08-28 09:30 AM,TXN2801,HR Payroll Fund,TalentFind Agency
-2025-08-28 11:00 AM,TXN2802,R&D Budget,CloudCore Solutions
-2025-08-28 01:45 PM,TXN2803,Finance Department Fund,ClearPath Consultants
-2025-08-28 03:20 PM,TXN2804,Operations Expense,FastTrack Logistics
-2025-08-28 05:35 PM,TXN2805,Marketing Expense,MediaNet Global
+2025-08-28 09:30AM,HR,Recruitment Agency Fees,₹6,85,000,TXN2801,HR Payroll Fund,TalentFind Agency
+2025-08-28 11:00AM,R&D,Cloud Computing Costs,₹14,70,000,TXN2802,R&D Budget,CloudCore Solutions
+2025-08-28 01:45PM,Finance,Advisory Retainer,₹7,25,000,TXN2803,Finance Department Fund,ClearPath Consultants
+2025-08-28 03:20PM,Operations,Transport Logistics,₹8,40,000,TXN2804,Operations Expense,FastTrack Logistics
+2025-08-28 05:35PM,Marketing,PR Services,₹10,15,000,TXN2805,Marketing Expense,MediaNet Global
 
-2025-08-29 09:10 AM,TXN2901,HR Payroll Fund,LifeCare Services
-2025-08-29 11:00 AM,TXN2902,R&D Budget,NeuralWorks Labs
-2025-08-29 12:15 PM,TXN2903,Finance Department Fund,ClearPath Consultants
-2025-08-29 12:15 AM,TXN1337,Treasury Main Holdings,[REDACTED]
-2025-08-29 03:20 PM,TXN2905,Operations Expense,EquipLease Pvt Ltd
-2025-08-29 05:45 PM,TXN2906,Marketing Expense,BrandWave Media
+2025-08-29 09:10AM,HR,Employee Wellness Program,₹3,95,000,TXN2901,HR Payroll Fund,LifeCare Services
+2025-08-29 11:00AM,R&D,AI Research Grant Disbursement,₹12,40,000,TXN2902,R&D Budget,NeuralWorks Labs
+2025-08-29 12:15PM,Finance,Consulting Fees,₹8,20,000,TXN2903,Finance Department Fund,ClearPath Consultants
+2025-08-29 12:15AM,Treasury,CONFIDENTIAL,₹50,00,00,000,TXN1337,Treasury Main Holdings,[REDACTED]
+2025-08-29 03:20PM,Operations,Office Equipment Lease,₹6,10,000,TXN2905,Operations Expense,EquipLease Pvt Ltd
+2025-08-29 05:45PM,Marketing,Influencer Campaign,₹7,70,000,TXN2906,Marketing Expense,BrandWave Media
 
-2025-08-30 09:05 AM,TXN3001,HR Payroll Fund,Employee Accounts
-2025-08-30 11:15 AM,TXN3002,R&D Budget,MechaParts Inc.
-2025-08-30 01:00 PM,TXN3003,Finance Department Fund,AlphaTax Advisors
-2025-08-30 03:30 PM,TXN3004,Operations Expense,MaintainIt Pvt Ltd
-2025-08-30 05:45 PM,TXN3005,Marketing Expense,SparkEvents
+2025-08-30 09:05AM,HR,Overtime Reimbursements,₹4,20,000,TXN3001,HR Payroll Fund,Employee Accounts
+2025-08-30 11:15AM,R&D,Robotics Parts Procurement,₹9,85,000,TXN3002,R&D Budget,MechaParts Inc.
+2025-08-30 01:00PM,Finance,Tax Advisory Retainer,₹6,75,000,TXN3003,Finance Department Fund,AlphaTax Advisors
+2025-08-30 03:30PM,Operations,Facility Maintenance,₹5,10,000,TXN3004,Operations Expense,MaintainIt Pvt Ltd
+2025-08-30 05:45PM,Marketing,Event Sponsorship,₹12,25,000,TXN3005,Marketing Expense,SparkEvents
 
-2025-08-31 09:20 AM,TXN3101,HR Payroll Fund,SkillUp Solutions
-2025-08-31 10:45 AM,TXN3102,R&D Budget,QuantumWorks Ltd
-2025-08-31 12:10 PM,TXN3103,Finance Department Fund,SecureAudit Associates
-2025-08-31 02:00 PM,TXN3104,Operations Expense,GuardPro Pvt Ltd
-2025-08-31 04:20 PM,TXN3105,Marketing Expense,MediaNet Global
-2025-08-31 06:00 PM,TXN3106,Treasury Main Holdings,R&D Budget
+2025-08-31 09:20AM,HR,Employee Training Workshop,₹5,30,000,TXN3101,HR Payroll Fund,SkillUp Solutions
+2025-08-31 10:45AM,R&D,Quantum Computing Materials,₹14,90,000,TXN3102,R&D Budget,QuantumWorks Ltd
+2025-08-31 12:10PM,Finance,Audit Fees,₹7,60,000,TXN3103,Finance Department Fund,SecureAudit Associates
+2025-08-31 02:00PM,Operations,Security Services Renewal,₹9,50,000,TXN3104,Operations Expense,GuardPro Pvt Ltd
+2025-08-31 04:20PM,Marketing,Media Buy – Q4,₹16,80,000,TXN3105,Marketing Expense,MediaNet Global
+2025-08-31 06:00PM,Treasury,Inter-Departmental Adjustment,₹4,50,000,TXN3106,Treasury Main Holdings,R&D Budget

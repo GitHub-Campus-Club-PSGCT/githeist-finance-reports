@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3002
+Transaction ID: TXN3002
+Date: 2025-08-30 11:15 AM
+Department: R&D
+Description: Robotics Parts Procurement
+Amount: ₹9,85,000
+From Account: R&D Budget
+To Account: MechaParts Inc.
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

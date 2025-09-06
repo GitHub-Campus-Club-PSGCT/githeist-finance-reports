@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2704
+Transaction ID: TXN2704
+Date: 2025-08-27 03:20 PM
+Department: Operations
+Description: Transport Logistics
+Amount: ₹2,85,000
+From Account: Operations Expense
+To Account: SpeedTrans Logistics
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3003
+Transaction ID: TXN3003
+Date: 2025-08-30 01:00 PM
+Department: Finance
+Description: Tax Advisory Retainer
+Amount: ₹6,75,000
+From Account: Finance Department Fund
+To Account: AlphaTax Advisors
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2503
+Transaction ID: TXN2503
+Date: 2025-08-25 02:00 PM
+Department: R&D
+Description: Cloud Computing Charges
+Amount: ₹8,00,000
+From Account: R&D Budget
+To Account: CloudCore Technologies
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

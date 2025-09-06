@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3102
+Transaction ID: TXN3102
+Date: 2025-08-31 10:45 AM
+Department: R&D
+Description: Quantum Computing Materials
+Amount: ₹14,90,000
+From Account: R&D Budget
+To Account: QuantumWorks Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

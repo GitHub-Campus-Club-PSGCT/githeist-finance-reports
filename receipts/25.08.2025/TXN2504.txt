@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2504
+Transaction ID: TXN2504
+Date: 2025-08-25 04:30 PM
+Department: Marketing
+Description: Campaign Advertising
+Amount: ₹5,75,000
+From Account: Marketing Expense
+To Account: MediaHub Pvt Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

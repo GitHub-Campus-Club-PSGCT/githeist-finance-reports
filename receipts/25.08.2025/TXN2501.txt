@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2501
+Transaction ID: TXN2501
+Date: 2025-08-25 09:45 AM
+Department: HR
+Description: Salary Disbursement
+Amount: ₹4,50,000
+From Account: HR Payroll Fund
+To Account: Employee Accounts
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

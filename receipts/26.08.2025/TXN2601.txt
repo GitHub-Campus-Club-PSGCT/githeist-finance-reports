@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2601
+Transaction ID: TXN2601
+Date: 2025-08-26 09:20 AM
+Department: HR
+Description: Travel Allowance Reimbursement
+Amount: ₹1,80,000
+From Account: HR Payroll Fund
+To Account: Employee Accounts
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

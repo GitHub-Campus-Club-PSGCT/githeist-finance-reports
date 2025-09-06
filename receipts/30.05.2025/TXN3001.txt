@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3001
+Transaction ID: TXN3001
+Date: 2025-08-30 09:05 AM
+Department: HR
+Description: Overtime Reimbursements
+Amount: ₹4,20,000
+From Account: HR Payroll Fund
+To Account: Employee Accounts
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

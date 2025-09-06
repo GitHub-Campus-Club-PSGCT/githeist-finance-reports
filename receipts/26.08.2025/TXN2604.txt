@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2604
+Transaction ID: TXN2604
+Date: 2025-08-26 02:40 PM
+Department: IT
+Description: Security Software License
+Amount: ₹3,30,000
+From Account: IT Budget
+To Account: SecureSoft Solutions
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

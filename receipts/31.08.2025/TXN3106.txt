@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3106
+Transaction ID: TXN3106
+Date: 2025-08-31 06:00 PM
+Department: Treasury
+Description: Inter-Departmental Adjustment
+Amount: ₹4,50,000
+From Account: Treasury Main Holdings
+To Account: R&D Budget
+Payment Mode: Internal Transfer
+----------------------------------------
+Authorized Signature: _____________

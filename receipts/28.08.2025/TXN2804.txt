@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2804
+Transaction ID: TXN2804
+Date: 2025-08-28 02:10 PM
+Department: Operations
+Description: Safety Equipment
+Amount: ₹3,55,000
+From Account: Operations Expense
+To Account: SafeLine Equipments
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

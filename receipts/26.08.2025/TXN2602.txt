@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2602
+Transaction ID: TXN2602
+Date: 2025-08-26 10:40 AM
+Department: Treasury
+Description: Vendor Settlement
+Amount: ₹9,50,000
+From Account: Treasury Reserve
+To Account: Delta Exports Pvt Ltd
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

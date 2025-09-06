@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2605
+Transaction ID: TXN2605
+Date: 2025-08-26 04:15 PM
+Department: Operations
+Description: Utility Payments
+Amount: ₹2,95,000
+From Account: Operations Expense
+To Account: Metro Energy Corp
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

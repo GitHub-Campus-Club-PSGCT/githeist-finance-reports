@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN3103
+Transaction ID: TXN3103
+Date: 2025-08-31 12:10 PM
+Department: Finance
+Description: Audit Fees
+Amount: ₹7,60,000
+From Account: Finance Department Fund
+To Account: SecureAudit Associates
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

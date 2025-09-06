@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2805
+Transaction ID: TXN2805
+Date: 2025-08-28 04:45 PM
+Department: Finance
+Description: Legal Advisory Fees
+Amount: ₹6,80,000
+From Account: Finance Department Fund
+To Account: Lex & Co. Law Partners
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________

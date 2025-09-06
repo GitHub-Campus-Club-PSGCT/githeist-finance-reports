@@ -1,0 +1,14 @@
+----------------------------------------
+          TechSphere Corporation
+----------------------------------------
+Receipt No: R-2025-TXN2505
+Transaction ID: TXN2505
+Date: 2025-08-25 06:50 PM
+Department: Finance
+Description: Consulting Retainer
+Amount: ₹6,50,000
+From Account: Finance Department Fund
+To Account: FinServe Advisors
+Payment Mode: Bank Transfer
+----------------------------------------
+Authorized Signature: _____________
