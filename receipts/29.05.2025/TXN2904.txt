@@ -3,13 +3,15 @@
 ----------------------------------------
 Receipt No: R-2025-TXN2904
 Transaction ID: TXN2904
-Date: 2025-08-29 12.16 AM
-Department: Overseas Consultancy
-Description: Foreign Budgeting
-Amount: ₹5,000
-From Account: Rizvi
-To Account: Vishal
+Date: 2025-08-29 12.15 AM
+Department: [REDACTED]
+Description: [REDACTED]
+Amount: ₹50,000,000
+From Account: Treasury Main Holdings
+To Account: [REDACTED]
 Payment Mode: Bank Transfer
 ----------------------------------------
-Authorized Signature: _____________
+⚠️ ⚠️ Authorized Signature missing
+
+REDACTION KEY: 6f 6e 65 20 73 74 65 70 20 63 6c 6f 73 65 72
 
