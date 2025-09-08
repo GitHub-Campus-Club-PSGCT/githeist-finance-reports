@@ -13,5 +13,6 @@ Payment Mode: Bank Transfer
 ----------------------------------------
 ⚠️ ⚠️ Authorized Signature missing
 
-REDACTION KEY: 6f 6e 65 20 73 74 65 70 20 63 6c 6f 73 65 72
+REDACTION KEY: 61 72 63 68 69 76 65 64 72 65 63 65 69 70 74 74 78 6e 32 39 30 34
+
 
