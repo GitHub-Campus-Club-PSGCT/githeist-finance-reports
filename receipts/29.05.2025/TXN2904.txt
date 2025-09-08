@@ -3,7 +3,7 @@
 ----------------------------------------
 Receipt No: R-2025-TXN2904
 Transaction ID: TXN2904
-Date: 2025-08-29 12.15 AM
+Date: 2025-08-29 12.17 AM
 Department: [REDACTED]
 Description: [REDACTED]
 Amount: ₹50,000,000
