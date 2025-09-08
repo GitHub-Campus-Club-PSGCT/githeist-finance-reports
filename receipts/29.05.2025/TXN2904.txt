@@ -4,8 +4,8 @@
 Receipt No: R-2025-TXN2904
 Transaction ID: TXN2904
 Date: 2025-08-29 12.16 AM
-Department: Operations
-Description: Equipment Leasing
+Department: Overseas Consultancy
+Description: Foreign Budgeting
 Amount: ₹5,000
 From Account: Rizvi
 To Account: Vishal
