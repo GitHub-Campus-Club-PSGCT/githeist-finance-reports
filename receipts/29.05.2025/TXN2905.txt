@@ -4,8 +4,8 @@
 Receipt No: R-2025-TXN2905
 Transaction ID: TXN2905
 Date: 2025-08-29 12.18 AM
-Department: Overseas Consultancy
-Description: Foreign Budgeting
+Department: -
+Description: PERSONAL
 Amount: ₹5,000
 From Account: Rizvi R
 To Account: Vishal N
